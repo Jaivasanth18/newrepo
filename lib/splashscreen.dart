@@ -49,6 +49,10 @@ class _SplashScreenState extends State<SplashScreen>
   Widget build(BuildContext context) {
   final screenWidth = MediaQuery.of(context).size.width;
   final screenHeight = MediaQuery.of(context).size.height;
+  /* sdkjlfklasdjfkajsdklfajklsdfga
+  kjfasjdjlkjfaklsdfklasdjfklaskldfja
+  asjdfhakjsdfhkjalsdhfkaskdlfaklsdfklad
+  fasdjhfahsjdkfh*/
   print('Screen dimensions: $screenWidth x $screenHeight');
   print('Image max dimensions: ${_animation.value * 400} x ${_animation.value * 400}');
     return Scaffold(
